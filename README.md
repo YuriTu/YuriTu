@@ -45,7 +45,7 @@ H264\H265\H266 图像编解码与封装
 
 
 ## 📫 联系方式
-<a href="./graphics-cv-tuqiang.pdf">
+<a href="https://github.com/YuriTu/YuriTu/raw/main/graphics-cv-tuqiang.pdf">
 <img src ="https://img.shields.io/badge/cv-Resume-critical"/>
 </a>
 <a href="./wechat.jpg">
