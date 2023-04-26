@@ -37,7 +37,7 @@ H264\H265\H266 图像编解码与封装
 [xgplayer-render](https://www.npmjs.com/package/xgplayer-render):适用多个媒体格式的渲染器
 
 
-## Work experience 👔
+## 👔 Work experience 
 | Job Position                 | Company            | Field                        |
 | ---------------------------- | ------------------ | ---------------------------- |
 | **多媒体**             | **字节跳动**    | **多媒体，云游戏，云渲染**        |
@@ -45,9 +45,17 @@ H264\H265\H266 图像编解码与封装
 
 
 ## 📫 联系方式
+<a href="./graphics-cv-tuqiang.pdf">
+<img src ="https://img.shields.io/badge/cv-Resume-critical"/>
+</a>
+<a href="./wechat.jpg">
+<img src ="https://img.shields.io/badge/wechat-yuri__t12-green"/>
+</a> 
+<a href="https://www.zhihu.com/people/YuriTu">
+<img src ="https://img.shields.io/badge/zhihu-Yuri-blue"/>
+</a>
 
-微信：yuri_t12 | [知乎][-1] |  ✉️ [Email](mailto:tuqiang_ru@163.com) |  
+✉️ [Email](mailto:tuqiang_ru@163.com) 
 
-我正在寻找渲染开发的相关岗位，欢迎与我联系。
+我正在寻找渲染开发的相关岗位，欢迎您与我联系。
 
-[-1]: https://www.zhihu.com/people/YuriTu
