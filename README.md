@@ -48,5 +48,6 @@ H264\H265\H266 图像编解码与封装
 
 微信：yuri_t12 | [知乎][-1] |  ✉️ [Email](mailto:tuqiang_ru@163.com) |  
 
+我正在寻找渲染开发的相关岗位，欢迎与我联系。
 
 [-1]: https://www.zhihu.com/people/YuriTu
