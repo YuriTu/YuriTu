@@ -24,13 +24,15 @@ H264\H265\H266 图像编解码与封装
 - **Languages**: &nbsp;                                       JavaScript,C++
 - **Graphic API**:                                            WebGL,Vulkan
 - **Engine**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Piccolo
-- **DevOps**:  &nbsp;&nbsp;&nbsp;                             Docker,Kubernetes,Prometheus
-- **Other**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing
+- **DevOps**:  &nbsp;&nbsp;&nbsp;                           Docker,Kubernetes,Prometheus
+- **Other**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing
 
 
 ## 🛠️Project
 
 [软光栅下体积云理论与实现](https://zhuanlan.zhihu.com/p/624909336)
+
+[Vulkan ray tracing 与 rasterization 管线对比](https://zhuanlan.zhihu.com/p/632655624)
 
 [proposal-class-brand-check](https://github.com/tc39/proposal-class-brand-check): TC39提案，目前处于stage-1.
 
