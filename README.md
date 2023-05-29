@@ -47,10 +47,10 @@ H264\H265\H266 图像编解码与封装
 
 
 ## 📫 联系方式
-<a href="https://github.com/YuriTu/YuriTu/raw/main/graphics-cv-tuqiang.pdf">
+<a href="https://yuritu.github.io/images/graphic-tuqiang-cv.pdf">
 <img src ="https://img.shields.io/badge/cv-Resume-critical"/>
 </a>
-<a href="./wechat.jpg">
+<a href="https://yuritu.github.io/images/wechat.jpg">
 <img src ="https://img.shields.io/badge/wechat-yuri__t12-green"/>
 </a> 
 <a href="https://www.zhihu.com/people/YuriTu">
@@ -59,5 +59,5 @@ H264\H265\H266 图像编解码与封装
 
 ✉️ [Email](mailto:tuqiang_ru@163.com) 
 
-我正在寻找渲染开发的相关岗位，期待您与我联系。
+我正在寻找渲染开发的相关岗位，期待您与我联系。这是我的 [简历](https://yuritu.github.io/images/graphic-tuqiang-cv.pdf) 。
 
