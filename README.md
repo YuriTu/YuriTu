@@ -22,13 +22,14 @@ H264\H265\H266 图像编解码与封装
 
 ## 📚Skills 
 - **Languages**: &nbsp;                                       JavaScript,C++
-- **Graphic API**:                                            WebGL,Vulkan
-- **Engine**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Piccolo
+- **Graphic API**:                                            Vulkan,WebGL
+- **Engine**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     UE,Piccolo
 - **DevOps**:  &nbsp;&nbsp;&nbsp;                           Docker,Kubernetes,Prometheus
 - **Other**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing
 
 
 ## 🛠️Project
+[GPU架构对RT 管线的渲染优化机制](https://zhuanlan.zhihu.com/p/637433740)
 
 [软光栅下体积云理论与实现](https://zhuanlan.zhihu.com/p/624909336)
 
