@@ -1,11 +1,10 @@
 ### Hi, 我是Yuri 👋 
 
 
-你好，我是**Tu qiang**一名软件开发者，2017年参加工作。暂居北京。
+你好，我是**Yuri**一名软件开发者，2017年参加工作。暂居北京。
 
 我的工作主要围绕 **JavaScript**， **C++**，**Webassembly**展开，如果有你感兴趣的部分欢迎和我交流。
 
-❤️ 我梦想能穷尽人类的技术让虚拟人更真实
 
 ## 💡 兴趣领域
 - 图形 
@@ -60,5 +59,5 @@ H264\H265\H266 图像编解码与封装
 
 ✉️ [Email](mailto:tuqiang_ru@163.com) 
 
-我正在寻找渲染开发的相关岗位，期待您与我联系。这是我的 [简历](https://yuritu.github.io/images/graphic-tuqiang-cv.pdf) 。
+我正在寻找图形渲染的相关岗位，期待您与我联系。这是我的 [简历](https://yuritu.github.io/images/graphic-tuqiang-cv.pdf) 。
 
