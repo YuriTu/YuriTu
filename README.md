@@ -59,5 +59,3 @@ H264\H265\H266 图像编解码与封装
 
 ✉️ [Email](mailto:tuqiang_ru@163.com) 
 
-我正在寻找图形渲染的相关岗位，期待您与我联系。这是我的 [简历](https://yuritu.github.io/images/graphic-tuqiang-cv.pdf) 。
-
